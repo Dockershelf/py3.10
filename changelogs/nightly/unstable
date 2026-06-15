@@ -1,322 +1,322 @@
-python3.10 (3.10.20-19-gb286d98783-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.20-19-gb286d98783-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.20-19-gb286d98783.
 
  -- Luis Alejandro Martínez Faneyth <luis@luisalejandro.org>  Mon, 15 Jun 2026 00:14:12 +0000
 
-python3.10 (3.10.20-18-g10cf7e2bf7-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.20-18-g10cf7e2bf7-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.20-18-g10cf7e2bf7.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Mon, 18 May 2026 12:05:26 +0000
 
-python3.10 (3.10.20-17-g72dde10164-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.20-17-g72dde10164-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.20-17-g72dde10164.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 01 May 2026 10:10:34 +0000
 
-python3.10 (3.10.20-15-g47128e64f9-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.20-15-g47128e64f9-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.20-15-g47128e64f9.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 14 Apr 2026 10:00:24 +0000
 
-python3.10 (3.10.20-13-g80f0bc1834-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.20-13-g80f0bc1834-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.20-13-g80f0bc1834.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sun, 12 Apr 2026 09:29:48 +0000
 
-python3.10 (3.10.20-12-gaf856a7177-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.20-12-gaf856a7177-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.20-12-gaf856a7177.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 09 Apr 2026 09:53:52 +0000
 
-python3.10 (3.10.20-10-ge70ff776fd-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.20-10-ge70ff776fd-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.20-10-ge70ff776fd.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 07 Apr 2026 09:48:37 +0000
 
-python3.10 (3.10.20-9-g2fcd2830b7-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.20-9-g2fcd2830b7-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.20-9-g2fcd2830b7.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Mon, 06 Apr 2026 09:51:02 +0000
 
-python3.10 (3.10.20-7-g591ed89027-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.20-7-g591ed89027-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.20-7-g591ed89027.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 04 Apr 2026 09:22:12 +0000
 
-python3.10 (3.10.20-5-gba74c01ac0-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.20-5-gba74c01ac0-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.20-5-gba74c01ac0.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 02 Apr 2026 09:40:47 +0000
 
-python3.10 (3.10.20-4-gad4d5ba32a-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.20-4-gad4d5ba32a-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.20-4-gad4d5ba32a.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 25 Mar 2026 09:35:19 +0000
 
-python3.10 (3.10.20-3-gba6eba5a85-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.20-3-gba6eba5a85-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.20-3-gba6eba5a85.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 06 Mar 2026 09:10:03 +0000
 
-python3.10 (3.10.20-1-g27c6454932-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.20-1-g27c6454932-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.20-1-g27c6454932.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 04 Mar 2026 09:08:45 +0000
 
-python3.10 (3.10.19-18-ge1a8a0393c-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.19-18-ge1a8a0393c-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.19-18-ge1a8a0393c.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 06 Feb 2026 09:26:07 +0000
 
-python3.10 (3.10.19-17-ge3109d6267-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.19-17-ge3109d6267-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.19-17-ge3109d6267.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 04 Feb 2026 09:25:26 +0000
 
-python3.10 (3.10.19-16-g6027dbb199-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.19-16-g6027dbb199-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.19-16-g6027dbb199.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Mon, 26 Jan 2026 09:03:47 +0000
 
-python3.10 (3.10.19-9-g2f84024955-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.19-9-g2f84024955-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.19-9-g2f84024955.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 21 Jan 2026 09:01:41 +0000
 
-python3.10 (3.10.19-8-gf12346d225-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.19-8-gf12346d225-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.19-8-gf12346d225.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 14 Jan 2026 09:00:41 +0000
 
-python3.10 (3.10.19-7-g1173f8068b-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.19-7-g1173f8068b-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.19-7-g1173f8068b.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 26 Nov 2025 08:55:28 +0000
 
-python3.10 (3.10.19-6-g9524203dee-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.19-6-g9524203dee-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.19-6-g9524203dee.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 01 Nov 2025 08:49:43 +0000
 
-python3.10 (3.10.19-1-g014261980b-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.19-1-g014261980b-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.19-1-g014261980b.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 11 Oct 2025 08:48:04 +0000
 
-python3.10 (3.10.18-16-gbca11ae7d5-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.18-16-gbca11ae7d5-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.18-16-gbca11ae7d5.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 08 Oct 2025 08:53:10 +0000
 
-python3.10 (3.10.18-14-g8ea678d6d1-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.18-14-g8ea678d6d1-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.18-14-g8ea678d6d1.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 07 Oct 2025 08:52:23 +0000
 
-python3.10 (3.10.18-13-gf610f9eab9-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.18-13-gf610f9eab9-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.18-13-gf610f9eab9.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 30 Sep 2025 08:53:52 +0000
 
-python3.10 (3.10.18-11-g7252d2b73b-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.18-11-g7252d2b73b-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.18-11-g7252d2b73b.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Mon, 29 Sep 2025 08:54:01 +0000
 
-python3.10 (3.10.18-10-ga99632fa2f-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.18-10-ga99632fa2f-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.18-10-ga99632fa2f.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 27 Sep 2025 08:47:41 +0000
 
-python3.10 (3.10.18-9-g5c19c5bac6-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.18-9-g5c19c5bac6-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.18-9-g5c19c5bac6.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sun, 14 Sep 2025 08:47:22 +0000
 
-python3.10 (3.10.18-7-g57f5981d62-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.18-7-g57f5981d62-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.18-7-g57f5981d62.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 03 Sep 2025 08:52:28 +0000
 
-python3.10 (3.10.18-6-g1df5d00145-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.18-6-g1df5d00145-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.18-6-g1df5d00145.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 23 Jul 2025 08:59:35 +0000
 
-python3.10 (3.10.18-5-g151e0f00f7-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.18-5-g151e0f00f7-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.18-5-g151e0f00f7.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sun, 13 Jul 2025 08:54:12 +0000
 
-python3.10 (3.10.18-3-gfdc9d214c0-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.18-3-gfdc9d214c0-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.18-3-gfdc9d214c0.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 04 Jul 2025 08:55:47 +0000
 
-python3.10 (3.10.18-2-gf297a2292c-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.18-2-gf297a2292c-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.18-2-gf297a2292c.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 12 Jun 2025 08:55:34 +0000
 
-python3.10 (3.10.18-1-g3358f9abf4-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.18-1-g3358f9abf4-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.18-1-g3358f9abf4.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 05 Jun 2025 08:54:44 +0000
 
-python3.10 (3.10.17-4-g880adf6c31-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.17-4-g880adf6c31-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.17-4-g880adf6c31.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 03 Jun 2025 08:55:55 +0000
 
-python3.10 (3.10.17-2-gf85e71a008-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.17-2-gf85e71a008-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.17-2-gf85e71a008.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Mon, 02 Jun 2025 08:55:23 +0000
 
-python3.10 (3.10.17-1-g6322edd260-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.17-1-g6322edd260-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.17-1-g6322edd260.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 10 Apr 2025 08:52:43 +0000
 
-python3.10 (3.10.16-15-ga4ef689ce6-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.16-15-ga4ef689ce6-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.16-15-ga4ef689ce6.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 04 Apr 2025 08:51:45 +0000
 
-python3.10 (3.10.16-12-gb22e6076d2-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.16-12-gb22e6076d2-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.16-12-gb22e6076d2.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 02 Apr 2025 08:53:08 +0000
 
-python3.10 (3.10.16-11-gb8b4b713c5-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.16-11-gb8b4b713c5-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.16-11-gb8b4b713c5.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 20 Feb 2025 08:49:20 +0000
 
-python3.10 (3.10.16-7-gd09105c0df-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.16-7-gd09105c0df-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.16-7-gd09105c0df.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 18 Feb 2025 08:49:27 +0000
 
-python3.10 (3.10.16-6-g1d4db86b4d-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.16-6-g1d4db86b4d-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.16-6-g1d4db86b4d.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 13 Feb 2025 08:48:39 +0000
 
-python3.10 (3.10.16-3-g10a2a9b3bc-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.16-3-g10a2a9b3bc-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.16-3-g10a2a9b3bc.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 22 Jan 2025 08:49:22 +0000
 
-python3.10 (3.10.16-2-g8773554b71-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.16-2-g8773554b71-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.16-2-g8773554b71.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 14 Dec 2024 08:49:25 +0000
 
-python3.10 (3.10.16-1-g362fc98c03-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.16-1-g362fc98c03-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.16-1-g362fc98c03.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 05 Dec 2024 08:52:40 +0000
 
-python3.10 (3.10.15-12-gb3a6042361-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.15-12-gb3a6042361-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.15-12-gb3a6042361.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 03 Dec 2024 08:52:32 +0000
 
-python3.10 (3.10.15-10-ge43897c340-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.15-10-ge43897c340-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.15-10-ge43897c340.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sun, 01 Dec 2024 08:49:46 +0000
 
-python3.10 (3.10.15-9-g5f24da9d75-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.15-9-g5f24da9d75-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.15-9-g5f24da9d75.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 06 Nov 2024 08:49:50 +0000
 
-python3.10 (3.10.15-8-g9286ab3a10-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.15-8-g9286ab3a10-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.15-8-g9286ab3a10.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 05 Nov 2024 08:49:04 +0000
 
-python3.10 (3.10.15-7-g6a2f12a754-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.15-7-g6a2f12a754-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.15-7-g6a2f12a754.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 23 Oct 2024 08:50:50 +0000
 
-python3.10 (3.10.15-2-g850189a64e-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.15-2-g850189a64e-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.15-2-g850189a64e.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 09 Oct 2024 08:50:29 +0000
 
-python3.10 (3.10.15-1-g0c5fc27217-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.15-1-g0c5fc27217-1+unstable1) unstable; urgency=medium
 
   * Update to v3.10.15-1-g0c5fc27217.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 14 Sep 2024 22:27:17 +0000
 
-python3.10 (3.10.15-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.15-1+unstable1) unstable; urgency=medium
 
   * Python 3.10.15 release.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 07 Sep 2024 18:35:38 +0000
 
-python3.10 (3.10.14-1+unstable2  ) unstable; urgency=medium
+python3.10 (3.10.14-1+unstable2) unstable; urgency=medium
 
   * adjust sysconfig substitution flags to avoid quotes.
 
  -- Anthony Sottile <asottile@umich.edu>  Sat, 27 Apr 2024 17:17:55 -0400
 
-python3.10 (3.10.14-1+unstable1  ) unstable; urgency=medium
+python3.10 (3.10.14-1+unstable1) unstable; urgency=medium
 
   * Repackage for ubuntu noble.
 
